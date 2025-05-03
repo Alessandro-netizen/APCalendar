@@ -10,6 +10,6 @@ public class Main {
                            APCalendar.dayOfWeek(1, 10, 2019));
 
         System.out.println("Day of the week for May 2, 2025: " +
-                           APCalendar.dayOfWeek(5, 2, 2025)); // Should be Friday (4)
+                           APCalendar.dayOfWeek(5, 2, 2025)); 
     }
 }
